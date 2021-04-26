@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Anapah</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/reactxsw">
