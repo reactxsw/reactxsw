@@ -12,12 +12,12 @@ I am 17 years old and I am very interested in programming.
 */
 
 int main() { 
-	string name = "Anapah";
+  string name = "Anapah";
   string country = "Thailand";
-	cout << "My name is " << name;
+  cout<< "My name is " << name;
   cout << "I am from " << country;
   cout << "Nice to meet you !" << country;
-	return 0;
+  return 0;
 }
   ```
 </h3>
