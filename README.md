@@ -16,7 +16,7 @@ int main() {
   string country = "Thailand";
   cout<< "My name is " << name;
   cout << "I am from " << country;
-  cout << "Nice to meet you !" << country;
+  cout << "Nice to meet you !";
   return 0;
 }
   ```
