@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
+I do not upload everythings I made here. These are some shitty projects
 <h3 align="left">
   
   ```c++
