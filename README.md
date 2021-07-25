@@ -7,11 +7,6 @@ Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Ass
 #include <string>
 using namespace std;
 
-/*
-Hello my name is Anapah Pongvijarn. I am from Bangkok , Thailand.
-I am 17 years old and I am very interested in programming.
-*/
-
 int main() { 
   string name = "Anapah";
   string country = "Thailand";
