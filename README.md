@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
-I do not upload everythings I made here. These are only some shitty projects I made (mostly python cuz its ez)
+Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.
 <h3 align="left">
   
   ```c++
