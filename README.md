@@ -27,9 +27,7 @@ int main() {
 <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h2>⚙️ GitHub Analytics</h2>
 <p align="center">
