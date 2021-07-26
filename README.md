@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
-<p style="color:blue;font-size:18px>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
+<p style="font-size:18px>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
 <h3 align="left">
   
   ```c++
