@@ -17,7 +17,7 @@ int main() {
 }
   ```
 </h3>
-<h1>💻 My language</h1>
+<h4>💻 My language</h4>
   <p align="center">
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
@@ -31,7 +31,7 @@ int main() {
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-<h4>⚙️ GitHub Analytics</h4>
+<h5>⚙️ GitHub Analytics</h5>
 <details>
   <summary>GitHub statistics</summary>
   
