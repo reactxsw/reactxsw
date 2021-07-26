@@ -8,6 +8,7 @@ Contact 🚀
 - Instagram : <a href="https://www.instagram.com/ard1l/">@ard1l</a>
 
 <h3 align="left">
+  
   ```c++
 #include <iostream>
 #include <string>
@@ -20,8 +21,9 @@ int main() {
   cout << "I am from " << country;
   cout << "Nice to meet you !";
   return 0;
-}```
-  </h3>
+}
+  ```
+</h3>
 <h4>💻 My language</h4>
   <p align="center">
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
