@@ -32,9 +32,15 @@ int main() {
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h2>⚙️ GitHub Analytics</h2>
-  <details>
-<a href="https://github.com/reactxsw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reactxsw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reactxsw&layout=compact&langs_count=8&theme=algolia&layout=compact"/>
-</a>
-  </details>
+<details>
+  <summary>GitHub statistics</summary>
+  
+  <a href="https://github.com/reactxsw">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=reactxsw&show_icons=true&theme=dracula&layout=compact" />
+  </a>
+
+  <a href="https://github.com/reactxsw">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactxsw&theme=dracula&layout=compact" />
+  </a>
+
+</details>
