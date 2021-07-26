@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
-Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.
+<p>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
 <h3 align="left">
   
   ```c++
@@ -32,9 +32,9 @@ int main() {
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h2>⚙️ GitHub Analytics</h2>
-<p align="center">
+  <details>
 <a href="https://github.com/reactxsw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reactxsw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reactxsw&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reactxsw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reactxsw&layout=compact&langs_count=8&theme=algolia&layout=compact"/>
 </a>
-</p>
+  </details>
