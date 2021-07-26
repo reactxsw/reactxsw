@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
-<p>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
+<h2>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</h2>
 <h3 align="left">
   
   ```c++
@@ -31,7 +31,7 @@ int main() {
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-<h2>⚙️ GitHub Analytics</h2>
+<h4>⚙️ GitHub Analytics</h4>
 <details>
   <summary>GitHub statistics</summary>
   
