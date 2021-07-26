@@ -24,7 +24,7 @@ int main() {
   ```
 </h3>
 <h4>💻 My language</h4>
-  <p align="center">
+  <p align="left">
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
