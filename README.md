@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
 <p>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
+<p>you can contact me through : </p>
+<p>Discord : REACT#1120
+<p>Email : anapah.pongvijarn@gmail.com
+<p>Instagram : <a href="https://www.instagram.com/ard1l/">@ard1l</a>
 <h3 align="left">
   
   ```c++
