@@ -18,6 +18,7 @@ int main() {
   ```
 </h3>
 <h1>💻 My language</h1>
+  <p align="center">
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
@@ -28,6 +29,7 @@ int main() {
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h2>⚙️ GitHub Analytics</h2>
 <p align="center">
