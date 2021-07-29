@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
-<p>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering.</p>
+<p>Hello everyone, my name is Anapah I am 17-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering. I do not upload everything I made on github. My repository are projects which I think is easy and can be publish.</p>
 
 **Contact 🚀**
 - Discord : REACT#1120
