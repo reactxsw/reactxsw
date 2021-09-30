@@ -2,7 +2,7 @@
 <p>Hello everyone, my name is Anapah Pongvijarn. I am 18-year-old from Thailand studying at Assumption University (ABAC) pursuing a degree in Computer Engineering. I get into coding during qurantine in 2020 and I take a lot of interest in coding since then. I experienced a lot things which can be made possible by using computer and looking forward to seeing what it can do in the future with my own eyes while being in the computer industry in the near future and also maybe be part of the changes or the development. I do not upload everything I made on github.</p>
 
 <p>bitcoin address : 3LQvqSaG4NS7QKkMuRF7XRVcoBVsAdamyh</p>
-<h4>Contact 🚀<h4>
+<h4>Contact 🚀</h4>
 - Discord : REACT#1120
 - Email : anapah.pongvijarn@gmail.com
 - Instagram : <a href="https://www.instagram.com/ard1l/">@ard1l</a>
