@@ -8,7 +8,7 @@
 **Contact 🚀**
 - Discord : REACT#1120
 - Email : anapah.pongvijarn@gmail.com
-- Instagram : <a href="https://www.instagram.com/ard1l/">@ard1l</a>
+- Instagram : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
 
 <h3 align="left">
   
