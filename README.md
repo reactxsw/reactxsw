@@ -43,7 +43,7 @@ int main() {
 <img src="https://img.shields.io/badge/php-05122A?style=flat&logo=php">
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-<a href="https://github.com/reactxsw/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord>
+<a href="https://github.com/reactxsw/github-readme-activity-graph"><img alt="reactxsw's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord>
 
 <details>
   <summary>GitHub statistics</summary>
