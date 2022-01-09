@@ -43,17 +43,14 @@ int main() {
 <img src="https://img.shields.io/badge/php-05122A?style=flat&logo=php">
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-<a href="https://github.com/reactxsw/github-readme-activity-graph"><img alt="reactxsw's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord">
 
-<details>
-  <summary>GitHub statistics</summary>
-  
-  <a href="https://github.com/reactxsw">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=reactxsw&show_icons=true&theme=dracula&layout=compact" />
-  </a>
 
-  <a href="https://github.com/reactxsw">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactxsw&theme=dracula&layout=compact" />
-  </a>
-
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="reactxsw's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=reactxsw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="reactxsw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactxsw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+  <br/>
 </details>
+  
+ <a href="https://github.com/reactxsw/github-readme-activity-graph"><img alt="reactxsw's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord">
