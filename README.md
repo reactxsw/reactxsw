@@ -43,6 +43,8 @@ int main() {
 <img src="https://img.shields.io/badge/php-05122A?style=flat&logo=php">
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+[![reactxsw's github activity graph](https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord)](https://github.com/reactxsw/github-readme-activity-graph)
+
 <details>
   <summary>GitHub statistics</summary>
   
