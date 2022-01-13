@@ -8,9 +8,9 @@
 </p>
 
 ### Contact 🚀
-- Discord : REACT#1120
-- Email : anapah.pongvijarn@gmail.com
-- Instagram : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
+- <b>Discord</b> : REACT#1120
+- <b>Email</b> : anapah.pongvijarn@gmail.com
+- <b>Instagram</b> : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
   
 ```c++
 #include <iostream>
