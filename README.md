@@ -7,8 +7,7 @@
 - Discord : REACT#1120
 - Email : anapah.pongvijarn@gmail.com
 - Instagram : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
-<h3 align="left">
-   ```c++
+```c++
    #include <iostream>
    #include <string>
    using namespace std;
@@ -20,8 +19,8 @@
       cout << "Nice to meet you !";
       return 0;
    }
-   ```
-</h3>
+```
+
 ### 💻 My language
 <p>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
