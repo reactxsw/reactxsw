@@ -24,17 +24,17 @@
 </h3>
 ### 💻 My language
 <p>
-   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
-   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
-   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
-   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-   <img src="https://img.shields.io/badge/php-05122A?style=flat&logo=php">
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
+   <a href="#"><img alt="" src="https://img.shields.io/badge/php-05122A?style=flat&logo=php"></a>
 </p>
 ### 🗄️ Databases and cloud hosting
 <p>
