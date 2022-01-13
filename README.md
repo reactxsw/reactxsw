@@ -9,17 +9,17 @@
 - Instagram : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
 
 ```c++
-   #include <iostream>
-   #include <string>
-   using namespace std;
-   int main() { 
-      string name = "Anapah";
-      string country = "Thailand";
-      cout<< "My name is " << name;
-      cout << "I am from " << country;
-      cout << "Nice to meet you !";
-      return 0;
-   }
+#include <iostream>
+#include <string>
+using namespace std;
+int main() { 
+   string name = "Anapah";
+   string country = "Thailand";
+   cout<< "My name is " << name;
+   cout << "I am from " << country;
+   cout << "Nice to meet you !";
+   return 0;
+}
 ```
 
 ### 💻 My language
