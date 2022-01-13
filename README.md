@@ -2,6 +2,7 @@
 <b>About me</b>
 <p>Hello everyone, my name is Anapah Pongvijarn. I am 18-year-old from Thailand studying at Assumption University pursuing a degree in Computer Engineering. I get into coding during qurantine in 2020 and I take a lot of interest in coding since then. I experienced a lot things which can be made possible by using computer and looking forward to seeing what it can do in the future with my own eyes in the near future. I do not upload everything I made on github I usually only upload easy projects.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 ### Contact 🚀
 - Discord : REACT#1120
 - Email : anapah.pongvijarn@gmail.com
