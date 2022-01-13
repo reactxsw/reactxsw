@@ -8,7 +8,6 @@
 - Email : anapah.pongvijarn@gmail.com
 - Instagram : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
 
-<b>
 ```c++
    #include <iostream>
    #include <string>
@@ -22,7 +21,7 @@
       return 0;
    }
 ```
-</b>
+
 ### 💻 My language
 <p>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
