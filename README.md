@@ -25,6 +25,15 @@ int main() {
    return 0;
 }
 ```
+<details>
+   <summary>💻 My PC</summary>
+  ```GeForce RTX 2060 GAMING Z 6G
+  Intel Core i5-9400F @2.90GHz
+  Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
+  Msi B360M PRO-VDH
+  Microsoft Windows 10 Pro x64
+  Nubwo MAIDEN NPC-317```
+</details>
 
 ### 💻 My language
 <p>
