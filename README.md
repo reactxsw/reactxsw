@@ -40,7 +40,8 @@ Microsoft Windows 10 Pro x64
 Nubwo MAIDEN NPC-317
 </details>
 
-### 💻 My language
+<details>
+   <summary>💻 My language</summary>
 <p>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
@@ -54,7 +55,7 @@ Nubwo MAIDEN NPC-317
    <a href="#"><img alt="" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
    <a href="#"><img alt="" src="https://img.shields.io/badge/php-05122A?style=flat&logo=php"></a>
 </p>
-
+</details>
 ### 🗄️ Databases and cloud hosting
 <p>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
