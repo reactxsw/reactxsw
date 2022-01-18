@@ -28,6 +28,7 @@ int main() {
 <details>
    <summary>💻 My PC</summary>
 GeForce RTX 2060 GAMING Z 6G
+<br>
 Intel Core i5-9400F @2.90GHz
 Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
 Msi B360M PRO-VDH
