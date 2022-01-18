@@ -30,9 +30,13 @@ int main() {
 GeForce RTX 2060 GAMING Z 6G
 <br>
 Intel Core i5-9400F @2.90GHz
+<br>
 Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
+<br>
 Msi B360M PRO-VDH
+<br>
 Microsoft Windows 10 Pro x64
+<br>
 Nubwo MAIDEN NPC-317
 </details>
 
