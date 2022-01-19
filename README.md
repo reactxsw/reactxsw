@@ -28,30 +28,36 @@ int main() {
 <details>
    <summary>💻 My PC</summary>
 GeForce RTX 2060 GAMING Z 6G
-<br>
+  <br>
 Intel Core i5-9400F @2.90GHz
-<br>
+  <br>
 Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
-<br>
+  <br>
 Msi B360M PRO-VDH
-<br>
+  <br>
 Microsoft Windows 10 Pro x64
-<br>
+  <br>
 Nubwo MAIDEN NPC-317
   <details>
-   <summary>💻 My PC</summary>
-GeForce RTX 2060 GAMING Z 6G
-<br>
-Intel Core i5-9400F @2.90GHz
-<br>
-Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
-<br>
-Msi B360M PRO-VDH
-<br>
-Microsoft Windows 10 Pro x64
-<br>
-Nubwo MAIDEN NPC-317
-</details>
+   <summary>💻 My PC accessories</summary>
+msi 27-inch optix g27cq4
+    <br>
+samsung 24-inch LS24F350FHEXXT
+    <br>
+Logitech G502
+    <br>
+Razer deathadder elite
+    <br>
+HyperX cloud revolver 7.1
+    <br>
+Razer Gigantus V2 XXL
+    <br>
+Razer Goliathus Mobile
+    <br>
+Razer blackwidow v2 (Green switch)
+    <br>
+Razer blackwidow v3 (Green switch)
+  </details>
 </details>
 <details>
    <summary>💻 My language</summary>
