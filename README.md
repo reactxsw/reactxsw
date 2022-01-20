@@ -25,6 +25,8 @@ int main() {
    return 0;
 }
 ```
+
+### My setup 💻
 | Pc Hardware        | Model                         | Pc Accessories    | Model                              | 
 | -------------------|:-----------------------------:|:------------------|:----------------------------------:|
 | Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
