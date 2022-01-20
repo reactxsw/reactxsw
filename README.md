@@ -28,7 +28,7 @@ int main() {
 ```
 
 ### My setup 💻
-| Pc Hardware        | Model                         | Pc Accessories    | Model                              | 
+| **Pc Hardware**    | **Model**                     | **Pc Accessories**| **Model**                          | 
 | -------------------|:-----------------------------:|:------------------|:----------------------------------:|
 | Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
 | Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Alt)       | Razer deathadder elite             |
