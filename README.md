@@ -40,7 +40,7 @@ int main() {
 | Monitor (Alt)      | samsung 24-inch LS24F350FHEXXT| Microphone        | FANTECH Leviosa Microphone MCX01   |
 
 <details>
-   <summary>💻 My language</summary>
+   <summary>👨‍💻 My language</summary>
 <p>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
    <a href="#"><img alt="" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
@@ -70,7 +70,7 @@ int main() {
 </p>
 </details>
 <details>
-   <summary>💻 GitHub Profile Stats</summary>
+   <summary>📊 GitHub Profile Stats</summary>
    <br/>
    <img alt="reactxsw's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=reactxsw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
    <img alt="reactxsw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactxsw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
