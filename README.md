@@ -27,6 +27,7 @@ int main() {
 ```
 <details>
    <summary>💻 My PC</summary>
+| Tables        | Are           | 
 | ------------- |:-------------:|
 | Graphic card  | GeForce RTX 2060 GAMING Z 6G |
 | Cpu           | Intel Core i5-9400F @2.90GHz |
