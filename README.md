@@ -25,35 +25,17 @@ int main() {
    return 0;
 }
 ```
-| Pc Hardware        | Model                         | Pc Accessories   | Model                 | 
-| -------------------|:-----------------------------:|:-----------------|:---------------------:|
-| Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)     | Logitech G502         |
-| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Secondary)| Razer deathadder elite|
-| Motherboard        | Msi B360M PRO-VDH             |
-| RAM                | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 |
-| OS                 | Microsoft Windows 10 Pro x64  |
-| Case               | Nubwo MAIDEN NPC-317          |
+| Pc Hardware        | Model                         | Pc Accessories    | Model                              | 
+| -------------------|:-----------------------------:|:------------------|:----------------------------------:|
+| Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
+| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Secondary) | Razer deathadder elite             |
+| Motherboard        | Msi B360M PRO-VDH             | Headset           | HyperX cloud revolver 7.1          |
+| RAM                | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 | Mousepad | Razer Gigantus V2 XXL   |
+| OS                 | Microsoft Windows 10 Pro x64  | Keyboard (Main)    | Razer blackwidow v3 (Green switch)|
+| Case               | Nubwo MAIDEN NPC-317          | Keyboard (Secondary| Razer blackwidow v2 (Green switch)|
 | Monitor (Main)     | msi 27-inch optix g27cq4      |
 | Monitor (Secondary)| samsung 24-inch LS24F350FHEXXT|
 
-
-  <details>
-   <summary>💻 My PC accessories</summary>
-    <br>
-Logitech G502
-    <br>
-Razer deathadder elite
-    <br>
-HyperX cloud revolver 7.1
-    <br>
-Razer Gigantus V2 XXL
-    <br>
-Razer Goliathus Mobile
-    <br>
-Razer blackwidow v2 (Green switch)
-    <br>
-Razer blackwidow v3 (Green switch)
-  </details>
   
 <details>
    <summary>💻 My language</summary>
