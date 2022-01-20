@@ -25,21 +25,15 @@ int main() {
    return 0;
 }
 ```
-| Hardware      | Model         | 
+| Pc Hardware   | Model         | 
 | ------------- |:-------------:|
 | Graphic card  | GeForce RTX 2060 GAMING Z 6G |
 | Cpu           | Intel Core i5-9400F @2.90GHz |
 | Motherboard   | Msi B360M PRO-VDH            |
-<details>
-   <summary>💻 My PC</summary>
-| ------------- |:-------------:|
-| Graphic card  | GeForce RTX 2060 GAMING Z 6G |
-| Cpu           | Intel Core i5-9400F @2.90GHz |
-| Motherboard   | Msi B360M PRO-VDH            |
-Corsair RAM DDR4(2666) 8GB Vengeance LPX Black *2
-Msi B360M PRO-VDH
-Microsoft Windows 10 Pro x64
-Nubwo MAIDEN NPC-317
+| RAM           | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 |
+| OS            | Microsoft Windows 10 Pro x64 |
+| Case          | Nubwo MAIDEN NPC-317         |
+
   <details>
    <summary>💻 My PC accessories</summary>
 msi 27-inch optix g27cq4
@@ -60,7 +54,7 @@ Razer blackwidow v2 (Green switch)
     <br>
 Razer blackwidow v3 (Green switch)
   </details>
-</details>
+  
 <details>
    <summary>💻 My language</summary>
 <p>
