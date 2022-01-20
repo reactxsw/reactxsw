@@ -25,10 +25,10 @@ int main() {
    return 0;
 }
 ```
-| Pc Hardware        | Model                         | Pc Accessories   | Model         | 
-| -------------------|:-----------------------------:|:-------------|:-------------:|
-| Graphic card       | GeForce RTX 2060 GAMING Z 6G  |
-| Cpu                | Intel Core i5-9400F @2.90GHz  |
+| Pc Hardware        | Model                         | Pc Accessories   | Model                 | 
+| -------------------|:-----------------------------:|:-----------------|:---------------------:|
+| Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)     | Logitech G502         |
+| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Secondary)| Razer deathadder elite|
 | Motherboard        | Msi B360M PRO-VDH             |
 | RAM                | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 |
 | OS                 | Microsoft Windows 10 Pro x64  |
@@ -39,9 +39,6 @@ int main() {
 
   <details>
    <summary>💻 My PC accessories</summary>
-msi 27-inch optix g27cq4
-    <br>
-samsung 24-inch LS24F350FHEXXT
     <br>
 Logitech G502
     <br>
