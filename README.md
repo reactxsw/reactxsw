@@ -25,9 +25,13 @@ int main() {
    return 0;
 }
 ```
+
+| ------------- |:-------------:|
+| Graphic card  | GeForce RTX 2060 GAMING Z 6G |
+| Cpu           | Intel Core i5-9400F @2.90GHz |
+| Motherboard   | Msi B360M PRO-VDH            |
 <details>
    <summary>💻 My PC</summary>
-| Tables        | Are           | 
 | ------------- |:-------------:|
 | Graphic card  | GeForce RTX 2060 GAMING Z 6G |
 | Cpu           | Intel Core i5-9400F @2.90GHz |
