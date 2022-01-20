@@ -28,13 +28,13 @@ int main() {
 | Pc Hardware        | Model                         | Pc Accessories    | Model                              | 
 | -------------------|:-----------------------------:|:------------------|:----------------------------------:|
 | Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
-| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Secondary) | Razer deathadder elite             |
+| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Alt)       | Razer deathadder elite             |
 | Motherboard        | Msi B360M PRO-VDH             | Headset           | HyperX cloud revolver 7.1          |
 | RAM                | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 | Mousepad | Razer Gigantus V2 XXL   |
 | OS                 | Microsoft Windows 10 Pro x64  | Keyboard (Main)    | Razer blackwidow v3 (Green switch)|
 | Case               | Nubwo MAIDEN NPC-317          | Keyboard (Secondary| Razer blackwidow v2 (Green switch)|
 | Monitor (Main)     | msi 27-inch optix g27cq4      |
-| Monitor (Secondary)| samsung 24-inch LS24F350FHEXXT|
+| Monitor (Alt)      | samsung 24-inch LS24F350FHEXXT|
 
   
 <details>
