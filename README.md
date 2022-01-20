@@ -25,8 +25,8 @@ int main() {
    return 0;
 }
 ```
-| Pc Hardware   | Model         | 
-| ------------- |:-------------:|
+| Pc Hardware   | Model         | Pc Accessories   | Model         | 
+| ------------- |:-------------:|:-------------|:-------------:|
 | Graphic card  | GeForce RTX 2060 GAMING Z 6G |
 | Cpu           | Intel Core i5-9400F @2.90GHz |
 | Motherboard   | Msi B360M PRO-VDH            |
