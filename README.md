@@ -25,7 +25,7 @@ int main() {
    return 0;
 }
 ```
-| Tables        | Are           | 
+| Hardware      | Model         | 
 | ------------- |:-------------:|
 | Graphic card  | GeForce RTX 2060 GAMING Z 6G |
 | Cpu           | Intel Core i5-9400F @2.90GHz |
