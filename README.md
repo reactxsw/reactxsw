@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
 
 ### About me 🙋‍♂️
-
 Hello everyone, my name is Anapah Pongvijarn. I am 19-year-old from Thailand studying at Assumption University pursuing a degree in Computer Engineering. I do not upload everything I made on github I usually only upload easy projects and kept most projects private. I am able to use a few of programming language but I prefer python and javascript as my favourite language.
 
 ### Experience ✨
