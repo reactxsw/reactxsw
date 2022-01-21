@@ -79,3 +79,7 @@ int main() {
    <img alt="reactxsw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactxsw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
    <img alt="reactxsw's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=reactxsw&theme=nord"> 
 </details>
+
+---
+All dates that are used in this file are formatted as YYYY/MM/DD
+Last edited: 2022/1/21 8:23 UTC+7
