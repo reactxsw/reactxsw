@@ -27,9 +27,8 @@ int main() {
 }
 ```
 
-### My setup 💻
 <details>
-   <summary>👨‍💻 My language</summary>
+   <summary>💻 My setup</summary>
   
 | **Pc Hardware**    | **Model**                     | **Pc Accessories**| **Model**                          | 
 | -------------------|:-----------------------------:|:------------------|:----------------------------------:|
