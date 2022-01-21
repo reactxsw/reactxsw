@@ -8,7 +8,7 @@ Hello everyone, my name is Anapah Pongvijarn. I am 19-year-old from Thailand stu
   <a href="https://github.com/reactxsw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-### Contact 🚀
+### Contact 📝
 - <b>Discord</b> : REACT#1120
 - <b>Email</b> : anapah.pongvijarn@gmail.com
 - <b>Instagram</b> : <a href="https://www.instagram.com/i_d1nnn/">@i_d1nnn</a>
