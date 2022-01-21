@@ -59,7 +59,7 @@ int main() {
 </p>
 </details>
 <details>
-   <summary>💻 Databases and cloud hosting</summary>
+   <summary>☁️ Databases and cloud hosting</summary>
 <p>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
