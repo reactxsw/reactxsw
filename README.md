@@ -28,6 +28,9 @@ int main() {
 ```
 
 ### My setup 💻
+<details>
+   <summary>👨‍💻 My language</summary>
+  
 | **Pc Hardware**    | **Model**                     | **Pc Accessories**| **Model**                          | 
 | -------------------|:-----------------------------:|:------------------|:----------------------------------:|
 | Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
@@ -38,7 +41,8 @@ int main() {
 | Case               | Nubwo MAIDEN NPC-317          | Keyboard (Alt)    | Razer blackwidow v2 (Green switch) |
 | Monitor (Main)     | msi 27-inch optix g27cq4      | Webcam            | NUBWO NWC-500 Web camera           |
 | Monitor (Alt)      | samsung 24-inch LS24F350FHEXXT| Microphone        | FANTECH Leviosa Microphone MCX01   |
-
+  
+</details>
 <details>
    <summary>👨‍💻 My language</summary>
 <p>
