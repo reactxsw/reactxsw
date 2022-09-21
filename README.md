@@ -33,7 +33,7 @@ int main() {
 <details>
    <summary>💻 My setup</summary>
    
-GPU : GeForce RTX 2060 GAMING Z 6G
+  <p>GPU : GeForce RTX 2060 GAMING Z 6G</p>
 CPU : Intel Core i5-9400F @2.90GHz 
 Motherboard : Msi B360M PRO-VDH  
 RAM : Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 
