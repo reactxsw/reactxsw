@@ -34,11 +34,11 @@ int main() {
    <summary>💻 My setup</summary>
    
   <p>GPU : GeForce RTX 2060 GAMING Z 6G</p>
-CPU : Intel Core i5-9400F @2.90GHz 
-Motherboard : Msi B360M PRO-VDH  
-RAM : Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 
-Monitor (Main) : msi 27-inch optix g27cq4   
-Monitor (Alt) : samsung 24-inch LS24F350FHEXXT
+  <p>CPU : Intel Core i5-9400F @2.90GHz</p>
+  <p>Motherboard : Msi B360M PRO-VDH</p>  
+<p>RAM : Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2</p>  
+<p>Monitor (Main) : msi 27-inch optix g27cq4</p>     
+<p>Monitor (Alt) : samsung 24-inch LS24F350FHEXXT</p>  
   
 </details>
 <details>
