@@ -32,17 +32,13 @@ int main() {
 
 <details>
    <summary>💻 My setup</summary>
-  
-| **Pc Hardware**    | **Model**                     | **Pc Accessories**| **Model**                          | 
-| -------------------|:-----------------------------:|:------------------|:----------------------------------:|
-| Graphic card       | GeForce RTX 2060 GAMING Z 6G  | Mouse (Main)      | Logitech G502                      |
-| Cpu                | Intel Core i5-9400F @2.90GHz  | Mouse (Alt)       | Razer deathadder elite             |
-| Motherboard        | Msi B360M PRO-VDH             | Headset           | HyperX cloud revolver 7.1          |
-| RAM                | Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 | Mousepad | Razer Gigantus V2 XXL   |
-| OS                 | Microsoft Windows 10 Pro x64  | Keyboard (Main)   | Razer blackwidow v3 (Green switch) |
-| Case               | Nubwo MAIDEN NPC-317          | Keyboard (Alt)    | Razer blackwidow v2 (Green switch) |
-| Monitor (Main)     | msi 27-inch optix g27cq4      | Webcam            | NUBWO NWC-500 Web camera           |
-| Monitor (Alt)      | samsung 24-inch LS24F350FHEXXT| Microphone        | FANTECH Leviosa Microphone MCX01   |
+   
+GPU : GeForce RTX 2060 GAMING Z 6G
+CPU : Intel Core i5-9400F @2.90GHz 
+Motherboard : Msi B360M PRO-VDH  
+RAM : Corsair RAM DDR4(2666) 8GB Vengeance LPX Black x2 
+Monitor (Main) : msi 27-inch optix g27cq4   
+Monitor (Alt) : samsung 24-inch LS24F350FHEXXT
   
 </details>
 <details>
