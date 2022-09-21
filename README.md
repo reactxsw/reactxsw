@@ -4,8 +4,7 @@
 Hello everyone, my name is Anapah Pongvijarn. I am 19-year-old from Thailand studying at Assumption University pursuing a degree in Computer Engineering. I do not upload everything I made on github I usually only upload easy projects and kept most projects private. I am able to use a few of programming language but I prefer python and javascript as my favourite language.
 
 ### Experience ✨
-Since my childhood, I have always been interested in computers. I used to take computer science class in 8th grade but later on dropped in 10th grade due to lack of motivation and uninterested class because the class is mainly about printers, pseudo code, flowcharts for two years and I didn't get to write a single line of code so I lost my interest. 
-I get into coding in mid-2020 and I take a lot of interest in coding since then. I experienced a lot of things which can be made possible by using the computer and looking forward to seeing what it can do in the future with my own eyes in the near future. 
+Since my childhood, I have always been interested in computers. I get into coding in mid-2020 and I take a lot of interest in coding since then. I experienced a lot of things which can be made possible by using the computer and looking forward to seeing what it can do in the future with my own eyes in the near future. 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> 
   <a href="https://github.com/reactxsw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
