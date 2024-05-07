@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anapah</h1>
 
 ### About me 🙋‍♂️
-Hello everyone, my name is Anapah Pongvijarn. I am 19-year-old from Thailand studying at Assumption University pursuing a degree in Computer Engineering. <b>I do not upload everything I made on github I usually only upload easy projects and kept most projects private </b>. I am able to use a few of programming language but I prefer python and javascript as my favourite language.
+Hello everyone, my name is Anapah Pongvijarn. I am 20-years-old from Thailand studying at Assumption University pursuing a degree in Mechatronic Engineering (Artificial Intelligence). <b>I do not upload everything I made on github I usually only upload easy projects and kept most projects private </b>. I am able to use a few of programming language but I prefer python and javascript as my favourite language.
 
-### Experience ✨
-Since my childhood, I have always been interested in computers. I get into coding in mid-2020 and I take a lot of interest in coding since then. I experienced a lot of things which can be made possible by using the computer and looking forward to seeing what it can do in the future with my own eyes in the near future. 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=reactxsw&label=Profile%20views&color=0e75b6&style=flat"/> 
   <a href="https://github.com/reactxsw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -69,4 +67,4 @@ int main() {
 ---
 *All dates that are used in this file are formatted as YYYY/MM/DD*
 <br>
-*Last edited: 2022/1/21 8:23 UTC+7*
+*Last edited: 2024/5/7 7:52 UTC+7*
